@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate software developer with experience in building dynamic applications using Spring Boot and React. Currently, I am expanding my skill set by learning TypeScript and Next.js, which enhances my ability to create robust, user-friendly web applications. I am eager to participate in open source projects, where I can contribute my knowledge and collaborate with others in the developer community. I am also actively seeking internship opportunities that will allow me to apply my skills i
+I am a passionate software developer with experience in building dynamic applications using React. Currently, I am expanding my skill set by learning TypeScript and Next.js, which enhances my ability to create robust, user-friendly web applications. I am eager to participate in open source projects where I can contribute my knowledge and collaborate with others in the developer community. I am also actively seeking internship opportunities that will allow me to apply my skills
 
 
 ## 🌐 Socials:
