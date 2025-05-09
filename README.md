@@ -19,7 +19,7 @@ I am a passionate software developer with experience in building dynamic applica
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![https://github.com/FutureLabss/FutureLabs-Lms](https://github-contributor-stats.vercel.app/api?username=ralpmike&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ralpmike&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ralpmike&icon=0&color=0)](https://visitcount.itsvg.in)
